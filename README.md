@@ -1,16 +1,42 @@
-## Hi there 👋
+# Lokesh Babu Adusumalli
 
-<!--
-**Lokesh-2403/Lokesh-2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Aspiring SOC Analyst
 
-Here are some ideas to get you started:
+I’m Lokesh Babu Adusumalli, a Cybersecurity Student at Dayananda Sagar College of Engineering, Bengaluru, India, with a strong interest in Security Operations, SOC, threat detection, network security, and incident response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am building practical cybersecurity skills through hands-on labs and projects involving networking, Linux, log analysis, SIEM, threat detection, and security monitoring.
+
+## 🔐 Cybersecurity Focus
+
+- Security Operations Center (SOC)
+- SIEM & Log Analysis
+- Threat Detection
+- Network Security
+- Incident Response
+- Vulnerability Assessment
+- Linux Security
+- Network Monitoring
+
+## 🛠️ Tools & Technologies
+
+- Splunk
+- Wireshark
+- Nmap
+- Linux
+- Python
+- C
+- C++
+- Git & GitHub
+
+## 🚀 Projects
+
+- Host-Based Network Reconnaissance & Service Enumeration
+- SOC Detection Lab using Splunk
+- Network Security & Monitoring Projects
+- Cybersecurity Learning Labs
+
+## 🌐 Connect With Me
+
+- Portfolio: https://lokeshbabu.vercel.app
+- LinkedIn: https://www.linkedin.com/in/lokeshbabu24
+- GitHub: https://github.com/Lokesh-2403
