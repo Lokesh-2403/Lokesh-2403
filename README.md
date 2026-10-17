@@ -1,8 +1,17 @@
 # About Me:
 
-Hi, I'm Lokesh Babu Adusumalli, an Information Science and Engineering student at Dayananda Sagar College of Engineering, Bengaluru, India, with a strong interest in cybersecurity and security operations.
-I'm focused on developing practical skills in SOC operations, SIEM, log analysis, threat detection, network security, and incident response through hands-on labs and security projects.
-My goal is to become a skilled SOC Analyst by strengthening my technical foundations, investigating security incidents, and building meaningful cybersecurity projects while continuously learning and improving.
+<p>
+  Hi, I'm <strong>Lokesh Babu Adusumalli</strong>, an Information Science and Engineering student at Dayananda Sagar College of Engineering, Bengaluru, India, with a strong interest in cybersecurity and security operations.
+</p>
+
+<p>
+  I'm focused on developing practical skills in <strong>SOC operations, SIEM, log analysis, threat detection, network security, and incident response</strong> through hands-on labs and security projects.
+</p>
+
+<p>
+  My goal is to become a skilled <strong>SOC Analyst</strong> by strengthening my technical foundations, investigating security incidents, and building meaningful cybersecurity projects while continuously learning and improving.
+</p>
+
 
 
 ## 🌐 Socials:
